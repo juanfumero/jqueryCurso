@@ -94,7 +94,7 @@ $(document).ready( function() {
 
 		$('#monto_subtotal').html('Bs. '+subtotal.toFixed(2));
 		$('#monto_iva').html('Bs. '+iva.toFixed(2));
-		$('#monta_total').html('Bs. '+total.toFixed(2));
+		$('#monto_total').html('Bs. '+total.toFixed(2));
 		$('#monto_honorarios').html('Bs. '+honorarios.toFixed(2));
 	});
 
